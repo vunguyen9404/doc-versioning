@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vn.eway.vunv.iml" filepath="$PROJECT_DIR$/.idea/modules/vn.eway.vunv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vn.eway.vunv_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vn.eway.vunv_main.iml" group="vn.eway.vunv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vn.eway.vunv_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vn.eway.vunv_test.iml" group="vn.eway.vunv" />
+    </modules>
+  </component>
+</project>
